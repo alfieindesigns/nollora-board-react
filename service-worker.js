@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nollora-board-react/precache-manifest.b9660401fc0a9511106caf885566562c.js"
+  "/nollora-board-react/precache-manifest.be6d900223dc97ab1c54cae6d1a85c8f.js"
 );
 
 self.addEventListener('message', (event) => {
