@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nollora-board-react/static/css/main.d2a2d668.chunk.css",
-    "main.js": "/nollora-board-react/static/js/main.72d22383.chunk.js",
-    "main.js.map": "/nollora-board-react/static/js/main.72d22383.chunk.js.map",
+    "main.js": "/nollora-board-react/static/js/main.ca1d055b.chunk.js",
+    "main.js.map": "/nollora-board-react/static/js/main.ca1d055b.chunk.js.map",
     "runtime-main.js": "/nollora-board-react/static/js/runtime-main.b9c0be06.js",
     "runtime-main.js.map": "/nollora-board-react/static/js/runtime-main.b9c0be06.js.map",
-    "static/js/2.fac95660.chunk.js": "/nollora-board-react/static/js/2.fac95660.chunk.js",
-    "static/js/2.fac95660.chunk.js.map": "/nollora-board-react/static/js/2.fac95660.chunk.js.map",
+    "static/js/2.651bdbcc.chunk.js": "/nollora-board-react/static/js/2.651bdbcc.chunk.js",
+    "static/js/2.651bdbcc.chunk.js.map": "/nollora-board-react/static/js/2.651bdbcc.chunk.js.map",
     "index.html": "/nollora-board-react/index.html",
-    "precache-manifest.8a34e4cae895f3e3df2377a971b9e503.js": "/nollora-board-react/precache-manifest.8a34e4cae895f3e3df2377a971b9e503.js",
+    "precache-manifest.b9660401fc0a9511106caf885566562c.js": "/nollora-board-react/precache-manifest.b9660401fc0a9511106caf885566562c.js",
     "service-worker.js": "/nollora-board-react/service-worker.js",
     "static/css/main.d2a2d668.chunk.css.map": "/nollora-board-react/static/css/main.d2a2d668.chunk.css.map",
-    "static/js/2.fac95660.chunk.js.LICENSE.txt": "/nollora-board-react/static/js/2.fac95660.chunk.js.LICENSE.txt"
+    "static/js/2.651bdbcc.chunk.js.LICENSE.txt": "/nollora-board-react/static/js/2.651bdbcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9c0be06.js",
-    "static/js/2.fac95660.chunk.js",
+    "static/js/2.651bdbcc.chunk.js",
     "static/css/main.d2a2d668.chunk.css",
-    "static/js/main.72d22383.chunk.js"
+    "static/js/main.ca1d055b.chunk.js"
   ]
 }
